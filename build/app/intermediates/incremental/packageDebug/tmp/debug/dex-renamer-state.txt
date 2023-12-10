@@ -1,0 +1,4 @@
+#Sat Dec 09 15:24:10 WIB 2023
+base.0=C\:\\Users\\AQsha\\Documents\\ARIAGGWP\\[KULIAH]\\[SMT 5}\\Teknologi Web Service\\vigenesia\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

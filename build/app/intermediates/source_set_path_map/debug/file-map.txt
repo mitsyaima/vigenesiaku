@@ -1,0 +1,12 @@
+com.example.vigenesia.app-jetified-window-1.0.0-beta04-0 C:\Users\AQsha\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.vigenesia.app-jetified-annotation-experimental-1.1.0-1 C:\Users\AQsha\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.vigenesia.app-core-1.6.0-2 C:\Users\AQsha\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.vigenesia.app-jetified-window-java-1.0.0-beta04-3 C:\Users\AQsha\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.vigenesia.app-debug-4 C:\Users\AQsha\Documents\ARIAGGWP\[KULIAH]\[SMT 5}\Teknologi Web Service\vigenesia\android\app\src\debug\res
+com.example.vigenesia.app-main-5 C:\Users\AQsha\Documents\ARIAGGWP\[KULIAH]\[SMT 5}\Teknologi Web Service\vigenesia\android\app\src\main\res
+com.example.vigenesia.app-pngs-6 C:\Users\AQsha\Documents\ARIAGGWP\[KULIAH]\[SMT 5}\Teknologi Web Service\vigenesia\build\app\generated\res\pngs\debug
+com.example.vigenesia.app-resValues-7 C:\Users\AQsha\Documents\ARIAGGWP\[KULIAH]\[SMT 5}\Teknologi Web Service\vigenesia\build\app\generated\res\resValues\debug
+com.example.vigenesia.app-rs-8 C:\Users\AQsha\Documents\ARIAGGWP\[KULIAH]\[SMT 5}\Teknologi Web Service\vigenesia\build\app\generated\res\rs\debug
+com.example.vigenesia.app-mergeDebugResources-9 C:\Users\AQsha\Documents\ARIAGGWP\[KULIAH]\[SMT 5}\Teknologi Web Service\vigenesia\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.vigenesia.app-mergeDebugResources-10 C:\Users\AQsha\Documents\ARIAGGWP\[KULIAH]\[SMT 5}\Teknologi Web Service\vigenesia\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.vigenesia.app-merged_res-11 C:\Users\AQsha\Documents\ARIAGGWP\[KULIAH]\[SMT 5}\Teknologi Web Service\vigenesia\build\app\intermediates\merged_res\debug
